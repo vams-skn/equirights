@@ -1,93 +1,54 @@
-# Free React / Next.js landing page template
+# EquiRights
 
-![Open React / Next.js template preview](https://github.com/user-attachments/assets/522a5e46-2a0e-48ca-80eb-87c7fa58f3ea)
+**EquiRights** is a global rights aggregator and navigator that empowers activists and individuals—especially women, LGBTQ+ folks, differently-abled people, and migrants—by providing access to country-specific information about their rights and resources.
 
-**Open** is a **free React / Next.js landing page template built with Tailwind CSS** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
+Built with 💙 React, Firebase, and data visualization tools like D3.js & Chart.js, EquiRights is designed for clarity, inclusivity, and accessibility, and allows users to:
 
-**UPDATE 2025-02-04** Added Tailwind v4 support!
+- Explore rights by country
+- Filter by identity groups
+- Understand the global disparities
+- Navigate toward resources and support
 
-Use it for whatever you want, and be sure to reach us out on [Twitter](https://twitter.com/Cruip_com) if you build anything cool/useful with it.
+Whether you're a traveler, activist, researcher, or simply curious about human rights landscapes worldwide — **EquiRights** helps you stay informed, inspired, and equipped.
 
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com).
+*Because the first step to justice is knowing what you're entitled to.*
 
-_Version 1.0.0 built with the Cruip CSS is available [here](https://github.com/cruip/open-react-template/releases/tag/1.0.0)._
-_Version 2.0.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/open-react-template/releases/tag/2.0.3)._
-_Version 3.3.0 (before redesign) built with Tailwind CSS and Next.js is available [here](https://github.com/cruip/open-react-template/releases/tag/3.3.0)._
+## Features
 
-## Live demo
+- **Country-wise Rights Navigation**
+  - Explore legal rights and protections across countries.
+- **Identity-Based Filtering**
+  - Filter resources by community (e.g. Women, LGBTQ+, Migrants, Disability).
 
-Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.com/)
+**Coming Next!**
+- **Visual Insights**
+  - Interactive charts and maps for better understanding of global rights landscapes.
+- **AI Chatbot**
+  - Ask rights-related questions conversationally.
+- **Country Comparison Tool**
+  - Side-by-side comparison of countries based on rights and inclusivity scores. 
 
-## Open PRO
+## Tech Stack
 
-[![Open Pro](https://github.com/user-attachments/assets/2062c728-95f1-4d59-aa2d-d63556f625d5)](https://cruip.com/)
+- **Frontend:** React + TailwindCSS
+- **Backend & Hosting:** Firebase + Vercel
+- **Data Visualization:** D3.js, Chart.js
 
-## Design files
+## Contributing
 
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/401KSUS
+Contributions that align with EquiRight's mission of rights advocacy and inclusivity are welcome! Whether you're a developer, designer, translator, or activist—I appreciate your support!
 
-## Usage
+1. Fork this repo
+2. Create your branch: `git checkout -b feature/amazing-feature`
+3. Commit your changes
+4. Push and open a PR
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Inspiration
 
-### Getting Started
+EquiRights was created for the [GNEC Hackathon](https://gnec-hackathon-2025-spring.devpost.com/), with the themes of United Nations' Sustainability Development Goals. Specifically, [SDG 5](https://sdgs.un.org/goals/goal5) - Gender Equality and [SDG 10](https://sdgs.un.org/goals/goal10) - Reduced Inequalities.
 
-First, run the development server:
+Driven by the belief that *knowing your rights is the first step toward exercising them*, I built EquiRights as a platform to assist individuals and activists in understanding the rights of marginalised communities across the globe.
 
-```bash
-npm run dev
-# or
-pnpm dev (recommended)
-# or
-yarn dev
-```
+## License
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-### Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-### Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-### Support notes
-
-This template has been developed with the App Router (`app`) and React Server Components. If you’re unfamiliar with these beta features, you can find more information about them on the Next.js beta documentation page. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
-
-For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
-
-## Credits
-
-- [Nucleo](https://nucleoapp.com/)
-
-## Terms and License
-
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2024 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow [@pacovitiello](https://x.com/pacovitiello) and [@DavidePacilio](https://x.com/DavidePacilio) on X, or you can subscribe to our [newsletter](https://cruip.com/newsletter/).
+[MIT License.](https://github.com/vams-skn/equirights/blob/main/LICENSE) Feel free to use, adapt, or modify. Just credit me and my project.
