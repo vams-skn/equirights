@@ -1,6 +1,6 @@
 {
-  "name": "open-pro-next",
-  "version": "0.1.0",
+  "name": "equirights",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -27,9 +27,9 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.3"
   },
-  "description": "![Open React / Next.js template preview](https://github.com/user-attachments/assets/522a5e46-2a0e-48ca-80eb-87c7fa58f3ea)",
+  "description": "A global rights aggregator and navigator",
   "main": "next.config.js",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Vaishnavi M Sankaran",
+  "license": "MIT"
 }

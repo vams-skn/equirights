@@ -1,6 +1,3 @@
-// import VideoThumb from "@/public/images/hero-image-01.jpg";
-// import ModalVideo from "@/components/modal-video";
-
 export default function HeroHome() {
   return (
     <section>
@@ -13,7 +10,7 @@ export default function HeroHome() {
               className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,var(--color-gray-200),var(--color-indigo-200),var(--color-gray-50),var(--color-indigo-300),var(--color-gray-200))] bg-[length:200%_auto] bg-clip-text pb-5 font-nacelle text-4xl font-semibold text-transparent md:text-5xl"
               data-aos="fade-up"
             >
-              EquiRights: Navigate Global Rights
+              EquiRights: Navigate Global Rights of Marginalized Communities
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -30,7 +27,7 @@ export default function HeroHome() {
                     href="#0"
                   >
                     <span className="relative inline-flex items-center">
-                      Explore a Country
+                      Select Country
                       <span className="ml-1 tracking-normal text-white/50 transition-transform group-hover:translate-x-0.5">
                         -&gt;
                       </span>
@@ -48,17 +45,6 @@ export default function HeroHome() {
               </div>
             </div>
           </div>
-
-          {/* <ModalVideo
-            thumb={VideoThumb}
-            thumbWidth={1104}
-            thumbHeight={576}
-            thumbAlt="Modal video thumbnail"
-            video="videos//video.mp4"
-            videoWidth={1920}
-            videoHeight={1080}
-          /> */}
-
         </div>
       </div>
     </section>
