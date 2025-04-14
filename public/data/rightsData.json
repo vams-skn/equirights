@@ -1,0 +1,17 @@
+[
+  {
+    "country": "India",
+    "community": "Women",
+    "rights": ["Right to education", "Right to equal pay"]
+  },
+  {
+    "country": "India",
+    "community": "LGBTQ+",
+    "rights": ["Decriminalization of homosexuality"]
+  },
+  {
+    "country": "Canada",
+    "community": "Disabilities",
+    "rights": ["Accessibility laws", "Inclusive education"]
+  }
+]
