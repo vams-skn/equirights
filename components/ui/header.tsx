@@ -11,10 +11,8 @@ export default function Header() {
           
           {/* Site Branding */}
           <div className="flex flex-1 items-center">
-            <Link href="/" className="flex items-center gap-2 text-white hover:opacity-90">
               <Logo />
-              <span className="text-lg font-semibold">EquiRights</span>
-            </Link>
+              <span className="text-lg px-3 font-semibold">EquiRights</span>
           </div>
 
           {/* Navigation Links */}
