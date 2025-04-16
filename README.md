@@ -34,18 +34,9 @@ Whether you're a traveler, activist, researcher, or simply curious about human r
 - **Backend & Hosting:** Firebase + Vercel
 - **Data Visualization:** D3.js, Chart.js
 
-## Contributing
-
-Contributions that align with EquiRight's mission of rights advocacy and inclusivity are welcome! Whether you're a developer, designer, translator, or activist—I appreciate your support!
-
-1. Fork this repo
-2. Create your branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes
-4. Push and open a PR
-
 ## Inspiration
 
-EquiRights was created for the [GNEC Hackathon](https://gnec-hackathon-2025-spring.devpost.com/), with the themes of United Nations' Sustainability Development Goals. Specifically, [SDG 5](https://sdgs.un.org/goals/goal5) - Gender Equality and [SDG 10](https://sdgs.un.org/goals/goal10) - Reduced Inequalities.
+EquiRights was created for the [GNEC Hackathon](https://gnec-hackathon-2025-spring.devpost.com/), with the themes of United Nations' Sustainable Development Goals. Specifically, [SDG 5](https://sdgs.un.org/goals/goal5) - Gender Equality and [SDG 10](https://sdgs.un.org/goals/goal10) - Reduced Inequalities.
 
 Driven by the belief that *knowing your rights is the first step toward exercising them*, I built EquiRights as a platform to assist individuals and activists in understanding the rights of marginalised communities across the globe.
 

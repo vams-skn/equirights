@@ -1,18 +1,16 @@
 export const metadata = {
-  title: "EquiRights",
+  title: "Search Country",
   description: "a global rights aggregator and navigator for marginalised communities",
 };
 
 import PageIllustration from "@/components/page-illustration";
-import Hero from "@/components/hero-home";
-import Features from "@/components/features";
+import SearchCountry from "@/components/search-country";
 
-export default function Home() {
+export default function Search() {
   return (
     <>
       <PageIllustration />
-      <Hero />
-      <Features />
+      <SearchCountry />
     </>
   );
 }
