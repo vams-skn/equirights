@@ -1,10 +1,10 @@
 # EquiRights
 
-**EquiRights** is a global rights aggregator and navigator that empowers activists and individuals—especially women, LGBTQ+ folks, differently-abled people, and migrants—by providing access to country-specific information about their rights and resources.
+**EquiRights** is a  global aggregator of legislations that empowers activists and individuals—especially women, LGBTQ+ folks, differently-abled people, and migrants—by providing access to country-specific information about their rights and resources. It empowers users to discover, compare, and understand laws relevant to marginalized communities around the world.
 
-Built with 💙 React, Firebase, and data visualization tools like D3.js & Chart.js, EquiRights is designed for clarity, inclusivity, and accessibility, and allows users to:
+Built with 💙 React and Firebase, EquiRights is designed for clarity, inclusivity, and accessibility, and allows users to:
 
-- Explore rights by country
+- Explore legislations/ laws by country
 - Filter by identity groups
 - Understand the global disparities
 - Navigate toward resources and support
@@ -18,7 +18,7 @@ Whether you're a traveler, activist, researcher, or simply curious about human r
 - **Country-wise Rights Navigation**
   - Explore legal rights and protections across countries.
 - **Identity-Based Filtering**
-  - Filter resources by community (e.g. Women, LGBTQ+, Migrants, Disability).
+  - Filter resources by community (e.g. Women, LGBTQ+, Migrants, Persons with Disabilities).
 
 **Coming Next!**
 - **Visual Insights**
@@ -32,7 +32,6 @@ Whether you're a traveler, activist, researcher, or simply curious about human r
 
 - **Frontend:** React + TailwindCSS
 - **Backend & Hosting:** Firebase + Vercel
-- **Data Visualization:** D3.js, Chart.js
 
 ## Inspiration
 
