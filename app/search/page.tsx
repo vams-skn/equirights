@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Search Country",
-  description: "a global rights aggregator and navigator for marginalised communities",
+  description: "a global legislations aggregator and navigator for marginalised communities",
 };
 
 import PageIllustration from "@/components/page-illustration";
