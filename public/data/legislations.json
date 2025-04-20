@@ -1,0 +1,71 @@
+[
+  {
+    "country": "India",
+    "data":
+    [
+      {
+        "community": "Women",
+        "acts":
+        [
+          {
+            "act": "Dowry Prohibition Act, 1961",
+            "description": "Prohibits the giving or receiving of dowry, aiming to eliminate dowry-related harassment and violence against women.",
+            "link": "https://indiankanoon.org/doc/1763444/"
+          },
+          {
+            "act": "Commission of Sati (Prevention) Act, 1987",
+            "description": "Criminalizes the practice of sati and its glorification, protecting widows from this harmful tradition.",
+            "link": "https://en.wikipedia.org/wiki/Sati_(Prevention)_Act,_1987"
+          },
+          {
+            "act": "Prohibition of Child Marriage Act, 2006",
+            "description": "Prohibits child marriages and provides support to victims, safeguarding young girls from early and forced marriages.",
+            "link": "https://en.wikipedia.org/wiki/The_Prohibition_of_Child_Marriage_Act,_2006"
+          },
+          {
+            "act": "Sexual Harassment of Women at Workplace Act, 2013",
+            "description": "Provides protection against sexual harassment at the workplace and outlines procedures for complaint redressal.",
+            "link": "https://en.wikipedia.org/wiki/Sexual_Harassment_of_Women_at_Workplace_(Prevention,_Prohibition_and_Redressal)_Act,_2013"
+          },
+          {
+            "act": "Hindu Succession (Amendment) Act, 2005",
+            "description": "Grants daughters equal rights to inherit ancestral property, promoting gender equality in inheritance laws.",
+            "link": "https://en.wikipedia.org/wiki/Hindu_Succession_(Amendment)_Act,_2005"
+          },
+          {
+            "act": "Bharatiya Nyaya Sanhita, 2023",
+            "description": "Modernizes criminal laws, including provisions addressing offenses like sexual harassment and stalking against women.",
+            "link": "https://indiankanoon.org/doc/149679501/"
+          },
+          {
+            "act": "Immoral Traffic (Prevention) Act, 1956",
+            "description": "Aims to prevent trafficking and exploitation of women for commercial sexual activities.",
+            "link": "https://www.indiacode.nic.in/handle/123456789/19286"
+          }
+        ]
+      },
+      {
+        "community": "LGBTQ+",
+        "acts":
+        [
+          {
+            "act": "ACT1",
+            "description": "XYZ.",
+            "link": "CCC"
+          },
+          {
+            "act": "ACT2",
+            "description": "XYZ.",
+            "link": "CCC"
+          }
+        ]
+      },
+      {
+
+      },
+      {
+
+      }
+    ]
+  }
+]

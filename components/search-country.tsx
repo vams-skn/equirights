@@ -1,6 +1,16 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { collection, getDocs } from "firebase/firestore";
+import { db } from "../firebase.js";
+
+async function fetchWomenRightsIndia() {
+  const rightsRef = collection(db, "rights", "India", "Women");
+  const snapshot = await getDocs(rightsRef);
+  const data = snapshot.docs.map(doc => doc.data());
+  console.log(data);
+  return data;
+}
 
 interface RightEntry {
   country: string;
@@ -13,12 +23,12 @@ export default function SearchCountry() {
   const [selectedCommunities, setSelectedCommunities] = useState<string[]>([]);
   const [filteredData, setFilteredData] = useState<RightEntry[]>([]);
 
-  const communities = ["Women", "LGBTQ+", "Persons with Disabilities"];
+  const communities = ["Women", "LGBTQ+", "Persons with Disabilities", "Migrants"];
   const countries = ["India", "Canada", "Germany", "USA"];
 
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("/data/rightsData.json");
+      const res = await fetch("/data/legislations.json");
       const data: RightEntry[] = await res.json();
 
       const filtered = data.filter((entry) => {
