@@ -41,11 +41,167 @@
             "act": "Immoral Traffic (Prevention) Act, 1956",
             "description": "Aims to prevent trafficking and exploitation of women for commercial sexual activities.",
             "link": "https://www.indiacode.nic.in/handle/123456789/19286"
+          },
+          {
+            "act": "Guardians & Wards Act, 1890",
+            "description": "Establishes procedures for appointing guardians for minors, ensuring the welfare and protection of children, including girls.",
+            "link": "https://www.indiacode.nic.in/handle/123456789/2318"
+          },
+          {
+            "act": "Christian Marriage Act, 1872",
+            "description": "Governs the solemnization of marriages among Indian Christians, ensuring legal recognition and protection for Christian women.",
+            "link": "https://en.wikipedia.org/wiki/The_Indian_Christian_Marriage_Act,_1872"
+          },
+          {
+            "act": "Bharatiya Sakshya Adhiniyam, 2023",
+            "description": "Modernizes evidence law, replacing the Indian Evidence Act, 1872, and includes provisions relevant to women's rights in legal proceedings.",
+            "link": "https://prsindia.org/billtrack/the-bharatiya-sakshya-bill-2023"
+          },
+          {
+            "act": "Married Women's Property Act, 1874",
+            "description": "Grants married women the right to own and control property independently, safeguarding their financial interests.",
+            "link": "https://www.indiacode.nic.in/handle/123456789/2283"
+          },
+          {
+            "act": "Workmen's Compensation Act, 1923",
+            "description": "Provides compensation to workers, including women, for injuries or death arising out of and in the course of employment.",
+            "link": "https://labour.gov.in/sites/default/files/theworkmenact19231.pdf"
+          },
+          {
+            "act": "Indian Succession Act, 1925",
+            "description": "Provides rules for the inheritance of property, including protections and inheritance rights for Christian women and widows.",
+            "link": "https://en.wikipedia.org/wiki/Indian_Succession_Act"
+          },
+          {
+            "act": "Cinematograph Act, 1952",
+            "description": "Regulates film content in India, helping prevent the objectification and indecent representation of women in cinema.",
+            "link": "https://en.wikipedia.org/wiki/Cinematograph_Act,_1952"
+          },
+          {
+            "act": "Births, Deaths & Marriages Registration Act, 1886",
+            "description": "Enables legal registration of vital events including marriages, supporting women's rights to legal marital status and identity.",
+            "link": "https://www.indiacode.nic.in/handle/123456789/2286"
+          },
+          {
+            "act": "Minimum Wages Act, 1948",
+            "description": "Ensures minimum wage standards, protecting women workers from exploitation and wage discrimination.",
+            "link": "https://labour.gov.in/sites/default/files/TheMinimumWagesAct1948.pdf"
+          },
+          {
+            "act": "Protection of Children from Sexual Offences Act, 2012",
+            "description": "Safeguards children, especially girls, from sexual abuse through stringent punishments and child-friendly procedures.",
+            "link": "https://en.wikipedia.org/wiki/Protection_of_Children_from_Sexual_Offences_Act"
+          },
+          {
+            "act": "Muslim Personal Law (Shariat) Application Act, 1937",
+            "description": "Applies Islamic personal laws to Muslims in India, affecting women's rights in marriage, divorce, and inheritance.",
+            "link": "https://en.wikipedia.org/wiki/Muslim_Personal_Law_(Shariat)_Application_Act,_1937"
+          },
+          {
+            "act": "Indecent Representation of Women (Prohibition) Act, 1986",
+            "description": "Prohibits indecent representation of women in media and advertisements, safeguarding women's dignity.",
+            "link": "https://en.wikipedia.org/wiki/Indecent_Representation_of_Women_(Prohibition)_Act"
+          },
+          {
+            "act": "Special Marriage Act, 1954",
+            "description": "Provides a legal framework for interfaith and civil marriages, ensuring women's rights irrespective of religion.",
+            "link": "https://en.wikipedia.org/wiki/Special_Marriage_Act,_1954"
+          },
+          {
+            "act": "Hindu Marriage Act, 1955",
+            "description": "Governs marriage among Hindus, granting women rights in marriage, divorce, and maintenance.",
+            "link": "https://en.wikipedia.org/wiki/Hindu_Marriage_Act,_1955"
+          },
+          {
+            "act": "Foreign Marriage Act, 1969",
+            "description": "Regulates marriages of Indian citizens abroad, ensuring legal rights for women in international marriages.",
+            "link": "https://en.wikipedia.org/wiki/Foreign_Marriage_Act,_1969"
+          },
+          {
+            "act": "Family Courts Act, 1984",
+            "description": "Establishes family courts to ensure speedy and sensitive resolution of disputes involving women, including divorce and maintenance.",
+            "link": "https://en.wikipedia.org/wiki/Family_Courts_Act,_1984"
+          },
+          {
+            "act": "Maternity Benefit Act, 1961",
+            "description": "Provides maternity leave, benefits, and workplace protections to ensure women’s health and financial stability during childbirth.",
+            "link": "https://labour.gov.in/sites/default/files/TheMaternityBenefitAct1961.pdf"
+          },
+          {
+            "act": "Hindu Adoption & Maintenance Act, 1956",
+            "description": "Governs adoption and maintenance among Hindus, securing the rights of women to claim maintenance from husbands or relatives.",
+            "link": "https://en.wikipedia.org/wiki/Hindu_Adoptions_and_Maintenance_Act,_1956"
+          },
+          {
+            "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+            "description": "Replaces the Code of Criminal Procedure, with provisions impacting criminal justice processes including those affecting women’s safety.",
+            "link": "https://prsindia.org/billtrack/bharatiya-nagarik-suraksha-sanhita-2023"
+          },
+          {
+            "act": "Medical Termination of Pregnancy Act, 1971",
+            "description": "Legalizes abortion under specific conditions, expanding women’s reproductive rights and access to safe medical procedures.",
+            "link": "https://en.wikipedia.org/wiki/Medical_Termination_of_Pregnancy_Act,_1971"
+          },
+          {
+            "act": "National Commission for Women Act, 1990",
+            "description": "Established the National Commission for Women to safeguard and promote women's rights through advocacy and policy review.",
+            "link": "https://ncw.nic.in/important-links/national-commission-women-act-1990"
+          },
+          {
+            "act": "The Pre-conception and Pre-natal Diagnostic Techniques (Prohibition of Sex Selection) Act, 1994",
+            "description": "Prohibits sex selection before or after conception to combat female foeticide and gender imbalance.",
+            "link": "https://en.wikipedia.org/wiki/Pre-Conception_and_Pre-Natal_Diagnostic_Techniques_Act"
+          },
+          {
+            "act": "Protection of Women from Domestic Violence Act, 2005",
+            "description": "Provides protection and remedies for women facing physical, emotional, verbal, or economic abuse in domestic settings.",
+            "link": "https://en.wikipedia.org/wiki/Protection_of_Women_from_Domestic_Violence_Act,_2005"
+          },
+          {
+            "act": "Indian Divorce Act, 1869",
+            "description": "Governs divorce and legal separation for Christians in India, including provisions for women seeking relief from abusive marriages.",
+            "link": "https://en.wikipedia.org/wiki/Indian_Divorce_Act,_1869"
+          },
+          {
+            "act": "Equal Remuneration Act, 1976",
+            "description": "Mandates equal pay for equal work, prohibiting gender-based wage discrimination against women.",
+            "link": "https://labour.gov.in/sites/default/files/TheEqualRemunerationAct1976.pdf"
+          },
+          {
+            "act": "Hindu Widows Remarriage Act, 1856",
+            "description": "Legalized the remarriage of Hindu widows, challenging deep-rooted societal taboos and ensuring their social rights.",
+            "link": "https://en.wikipedia.org/wiki/Hindu_Widows%27_Remarriage_Act,_1856"
+          },
+          {
+            "act": "Muslim Women (Protection of Rights on Marriage) Act, 2019",
+            "description": "Criminalizes instant triple talaq and protects the rights of Muslim women in marriage and divorce.",
+            "link": "https://en.wikipedia.org/wiki/The_Muslim_Women_(Protection_of_Rights_on_Marriage)_Act,_2019"
           }
         ]
       },
       {
         "community": "LGBTQ+",
+        "acts":
+        [
+          {
+            "act": "Various Constitutional Articles",
+            "description": "Recognises gender identity; and discriminating someone based on their gender identity, would amount to violation of their Fundamental Rights",
+            "link": "https://en.wikipedia.org/wiki/Section_377_of_the_Indian_Penal_Code"
+          },
+          {
+            "act": "Navtej Singh Johar v. Union of India (2018)",
+            "description": "Decriminalized consensual same-sex relationships by reading down Section 377 IPC.",
+            "link": "https://en.wikipedia.org/wiki/Section_377_of_the_Indian_Penal_Code"
+          },
+          {
+            "act": "ACT2",
+            "description": "XYZ.",
+            "link": "CCC"
+          }
+        ]
+      },
+      {
+        "community": "Persons with Disabilities",
         "acts":
         [
           {
@@ -61,10 +217,20 @@
         ]
       },
       {
-
-      },
-      {
-
+        "community": "Migrants",
+        "acts":
+        [
+          {
+            "act": "ACT1",
+            "description": "XYZ.",
+            "link": "CCC"
+          },
+          {
+            "act": "ACT2",
+            "description": "XYZ.",
+            "link": "CCC"
+          }
+        ]
       }
     ]
   }
