@@ -1,16 +1,6 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { collection, getDocs } from "firebase/firestore";
-import { db } from "../firebase.js";
-
-async function fetchWomenRightsIndia() {
-  const rightsRef = collection(db, "rights", "India", "Women");
-  const snapshot = await getDocs(rightsRef);
-  const data = snapshot.docs.map(doc => doc.data());
-  console.log(data);
-  return data;
-}
 
 interface RightEntry {
   country: string;
