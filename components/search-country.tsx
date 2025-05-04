@@ -13,7 +13,7 @@ export default function SearchCountry() {
   const [selectedCommunities, setSelectedCommunities] = useState<string[]>([]);
   const [filteredData, setFilteredData] = useState<RightEntry[]>([]);
 
-  const communities = ["Women", "LGBTQ+", "Persons with Disabilities", "Migrants"];
+  const communities = ["Women", "LGBTQ+", "Persons with Disabilities"];
   const countries = ["India", "Canada", "Germany", "USA"];
 
   useEffect(() => {

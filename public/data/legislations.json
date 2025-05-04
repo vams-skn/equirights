@@ -192,12 +192,16 @@
             "act": "Navtej Singh Johar v. Union of India (2018)",
             "description": "Decriminalized consensual same-sex relationships by reading down Section 377 IPC.",
             "link": "https://en.wikipedia.org/wiki/Section_377_of_the_Indian_Penal_Code"
+          },{
+            "title": "Transgender Persons (Protection of Rights) Act, 2019",
+            "description": "Protects the rights of transgender persons and prohibits discrimination in education, healthcare, employment, etc.",
+            "link": "https://en.wikipedia.org/wiki/Transgender_Persons_(Protection_of_Rights)_Act,_2019"
           },
           {
-            "act": "ACT2",
-            "description": "XYZ.",
-            "link": "CCC"
-          }
+            "title": "Madras HC Ruling on LGBTQ+ Sensitization (2021)",
+            "description": "Directed the inclusion of LGBTQIA+ education in curricula and police training.",
+            "link": "https://www.barandbench.com/news/litigation/madras-high-court-issues-lgbtqia-guidelines"
+          }           
         ]
       },
       {
@@ -205,30 +209,24 @@
         "acts":
         [
           {
-            "act": "ACT1",
-            "description": "XYZ.",
-            "link": "CCC"
+            "act": "Rights of Persons with Disabilities Act, 2016",
+            "description": "Expands the list of recognized disabilities from 7 to 21, mandates 4% reservation in government jobs, 5% in higher education, and ensures accessibility in public infrastructure, education, and employment.",
+            "link": "https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_rights_of_persons_with_disabilities_act%2C_2016.pdf"
           },
           {
-            "act": "ACT2",
-            "description": "XYZ.",
-            "link": "CCC"
-          }
-        ]
-      },
-      {
-        "community": "Migrants",
-        "acts":
-        [
-          {
-            "act": "ACT1",
-            "description": "XYZ.",
-            "link": "CCC"
+            "act": "National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999",
+            "description": "Establishes a statutory body to provide legal guardianship and promote welfare measures for persons with specified disabilities through community-based support.",
+            "link": "https://depwd.gov.in/acts/"
           },
           {
-            "act": "ACT2",
-            "description": "XYZ.",
-            "link": "CCC"
+            "act": "Rehabilitation Council of India Act, 1992",
+            "description": "Regulates and monitors training programs for rehabilitation professionals and maintains a Central Rehabilitation Register to ensure quality services for persons with disabilities.",
+            "link": "https://depwd.gov.in/acts/"
+          },
+          {
+            "act": "Mental Healthcare Act, 2017",
+            "description": "Guarantees the right to mental healthcare services, decriminalizes suicide, and ensures informed consent and confidentiality for persons with mental illnesses.",
+            "link": "https://www.indiacode.nic.in/handle/123456789/2249"
           }
         ]
       }
