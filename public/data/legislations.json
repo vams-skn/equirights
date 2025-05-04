@@ -192,13 +192,14 @@
             "act": "Navtej Singh Johar v. Union of India (2018)",
             "description": "Decriminalized consensual same-sex relationships by reading down Section 377 IPC.",
             "link": "https://en.wikipedia.org/wiki/Section_377_of_the_Indian_Penal_Code"
-          },{
-            "title": "Transgender Persons (Protection of Rights) Act, 2019",
+          },
+          {
+            "act": "Transgender Persons (Protection of Rights) Act, 2019",
             "description": "Protects the rights of transgender persons and prohibits discrimination in education, healthcare, employment, etc.",
             "link": "https://en.wikipedia.org/wiki/Transgender_Persons_(Protection_of_Rights)_Act,_2019"
           },
           {
-            "title": "Madras HC Ruling on LGBTQ+ Sensitization (2021)",
+            "act": "Madras HC Ruling on LGBTQ+ Sensitization (2021)",
             "description": "Directed the inclusion of LGBTQIA+ education in curricula and police training.",
             "link": "https://www.barandbench.com/news/litigation/madras-high-court-issues-lgbtqia-guidelines"
           }           
@@ -231,5 +232,137 @@
         ]
       }
     ]
-  }
+  },
+  {
+    "country": "United States of America",
+    "data":
+    [
+      {
+        "community": "Women",
+        "acts":
+        [
+          {
+            "act": "Equal Pay Act, 1963",
+            "description": "Mandates equal pay for equal work, prohibiting wage discrimination based on sex.",
+            "link": "https://www.eeoc.gov/statutes/equal-pay-act-1963"
+          },
+          {
+            "act": "Title VII of the Civil Rights Act, 1964",
+            "description": "Prohibits employment discrimination based on race, color, religion, sex, or national origin.",
+            "link": "https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964"
+          },
+          {
+            "act": "Title IX of the Education Amendments, 1972",
+            "description": "Prohibits sex-based discrimination in federally funded education programs and activities.",
+            "link": "https://www2.ed.gov/about/offices/list/ocr/docs/tix_dis.html"
+          },
+          {
+            "act": "Pregnancy Discrimination Act, 1978",
+            "description": "Prohibits discrimination based on pregnancy, childbirth, or related medical conditions.",
+            "link": "https://www.eeoc.gov/statutes/pregnancy-discrimination-act-1978"
+          },
+          {
+            "act": "Violence Against Women Act (VAWA), 1994",
+            "description": "Provides resources and legal remedies to address domestic violence, sexual assault, and stalking.",
+            "link": "https://www.justice.gov/ovw/violence-against-women-act"
+          },
+          {
+            "act": "Fair Labor Standards Act (FLSA), 1938",
+            "description": "Establishes minimum wage and overtime protections, benefiting both men and women in the workforce.",
+            "link": "https://www.dol.gov/agencies/whd/flsa"
+          },
+          {
+            "act": "Family and Medical Leave Act (FMLA), 1993",
+            "description": "Grants up to 12 weeks of unpaid, job-protected leave for childbirth, newborn care, or health needs.",
+            "link": "https://www.dol.gov/agencies/whd/fmla"
+          },
+          {
+            "act": "Affordable Care Act (ACA), 2010",
+            "description": "Expands women's access to preventive health services, including contraception, without cost-sharing.",
+            "link": "https://www.hhs.gov/healthcare/about-the-aca/index.html"
+          },
+          {
+            "act": "Lilly Ledbetter Fair Pay Act, 2009",
+            "description": "Resets the time limit for filing pay discrimination claims with each discriminatory paycheck.",
+            "link": "https://www.eeoc.gov/statutes/lilly-ledbetter-fair-pay-act-2009"
+          },
+          {
+            "act": "Pregnant Workers Fairness Act, 2023",
+            "description": "Requires reasonable workplace accommodations for employees affected by pregnancy and childbirth.",
+            "link": "https://www.eeoc.gov/wysk/what-you-should-know-about-pregnant-workers-fairness-act"
+          }
+        ]
+      },
+      {
+        "community": "Persons with Disabilities",
+        "acts": [
+          {
+            "act": "Americans with Disabilities Act (ADA), 1990",
+            "description": "A comprehensive civil rights law prohibiting discrimination against individuals with disabilities in employment, public accommodations, transportation, and more.",
+            "link": "https://www.ada.gov/"
+          },
+          {
+            "act": "Rehabilitation Act of 1973 (Sections 501, 503, 504, 508)",
+            "description": "Prohibits discrimination on the basis of disability in federal programs and services, federal employment, and by federal contractors; ensures accessibility of electronic and information technology.",
+            "link": "https://www.dol.gov/agencies/ofccp/section-503"
+          },
+          {
+            "act": "Individuals with Disabilities Education Act (IDEA), 2004",
+            "description": "Guarantees free appropriate public education to eligible children with disabilities and ensures special education and related services.",
+            "link": "https://sites.ed.gov/idea/"
+          },
+          {
+            "act": "Fair Housing Act (FHA), 1968",
+            "description": "Prohibits discrimination in housing based on disability, requiring landlords to make reasonable accommodations.",
+            "link": "https://www.hud.gov/program_offices/fair_housing_equal_opp/disability_overview"
+          },
+          {
+            "act": "Voting Accessibility for the Elderly and Handicapped Act, 1984",
+            "description": "Requires polling places for federal elections to be accessible to individuals with disabilities.",
+            "link": "https://www.justice.gov/crt/voting-accessibility-elderly-and-handicapped-act"
+          },
+          {
+            "act": "National Voter Registration Act (NVRA), 1993",
+            "description": "Mandates that voter registration services be provided at state agencies serving persons with disabilities.",
+            "link": "https://www.justice.gov/crt/national-voter-registration-act-1993-nvra"
+          },
+          {
+            "act": "Civil Rights of Institutionalized Persons Act (CRIPA), 1980",
+            "description": "Authorizes the U.S. Attorney General to address systemic civil rights violations in institutions, including those housing individuals with disabilities.",
+            "link": "https://www.justice.gov/crt/civil-rights-institutionalized-persons"
+          }
+        ]
+      },
+      {
+        "community": "LGBTQ+",
+        "acts": [
+          {
+            "act": "Title VII of the Civil Rights Act of 1964 (as interpreted in Bostock v. Clayton County, 2020)",
+            "description": "Prohibits employment discrimination based on sexual orientation and gender identity under the definition of 'sex'.",
+            "link": "https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964"
+          },
+          {
+            "act": "Title IX of the Education Amendments of 1972",
+            "description": "Prohibits sex-based discrimination in federally funded education programs, interpreted to include sexual orientation and gender identity.",
+            "link": "https://www2.ed.gov/about/offices/list/ocr/docs/tix_dis.html"
+          },
+          {
+            "act": "Section 1557 of the Affordable Care Act, 2010",
+            "description": "Prohibits discrimination in health programs and activities on the basis of sex, including sexual orientation and gender identity.",
+            "link": "https://www.hhs.gov/civil-rights/for-individuals/section-1557/index.html"
+          },
+          {
+            "act": "Freedom of Access to Clinic Entrances (FACE) Act, 1994",
+            "description": "Protects the right to access reproductive health services, including protections for LGBTQ+ individuals seeking such services.",
+            "link": "https://www.justice.gov/crt/freedom-access-clinic-entrances-face-act"
+          },
+          {
+            "act": "Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act, 2009",
+            "description": "Expands federal hate crime laws to include crimes motivated by a victim's actual or perceived sexual orientation or gender identity.",
+            "link": "https://www.justice.gov/crt/hate-crimes-prevention-act-2009"
+          }
+        ]
+      }      
+    ]
+  }  
 ]
