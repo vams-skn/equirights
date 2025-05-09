@@ -30,7 +30,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/about"
                 >
                   About
                 </a>
@@ -38,7 +38,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/how-it-works"
                 >
                   How it works
                 </a>
@@ -46,7 +46,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/countries"
                 >
                   Countries
                 </a>
@@ -54,12 +54,12 @@ export default function Footer() {
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
+                  href="/roadmap"
                 >
                   Changelog &amp; Roadmap
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
@@ -74,13 +74,13 @@ export default function Footer() {
                 >
                   Terms of Use
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
           
           {/* 2nd block */}
           <div className="space-y-2">
-            <h3 className="text-sm font-medium text-gray-200">
+            {/* <h3 className="text-sm font-medium text-gray-200">
               Rights &amp; Resources
             </h3>
             <ul className="space-y-2 text-sm">
@@ -113,14 +113,6 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Migrant Resources
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
                   Crisis Hotlines
                 </a>
               </li>
@@ -132,11 +124,11 @@ export default function Footer() {
                   Submit a Resource
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </div>
           
           {/* 3rd block */}
-          <div className="space-y-2">
+          {/* <div className="space-y-2">
             <h3 className="text-sm font-medium text-gray-200">
               Support
             </h3>
@@ -182,9 +174,10 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
           
           {/* 4th block */}
+          <div className="space-y-2"></div>
           <div className="space-y-2"></div>
 
           {/* 5th block */}

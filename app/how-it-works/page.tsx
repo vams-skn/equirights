@@ -6,7 +6,7 @@ export const metadata = {
 import PageIllustration from "@/components/page-illustration";
 import HowItWorks from "@/components/how-it-works";
 
-export default function Search() {
+export default function Working() {
 return (
     <>
     <PageIllustration />

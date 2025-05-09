@@ -2,7 +2,7 @@
 
 **EquiRights** is a  global aggregator of legislations that empowers activists and individuals—especially women, LGBTQ+ folks, and differently-abled people—by providing access to country-specific information about their rights and resources. It empowers users to discover, compare, and understand laws relevant to marginalized communities around the world.
 
-Built with 💙 React and Firebase, EquiRights is designed for clarity, inclusivity, and accessibility, and allows users to:
+Built with 💙 React, EquiRights is designed for clarity, inclusivity, and accessibility, and allows users to:
 
 - Explore legislations/ laws by country
 - Filter by identity groups
@@ -18,7 +18,7 @@ Whether you're a traveler, activist, researcher, or simply curious about human r
 - **Country-wise Rights Navigation**
   - Explore legal rights and protections across countries.
 - **Identity-Based Filtering**
-  - Filter resources by community (e.g. Women, LGBTQ+, and, Persons with Disabilities).
+  - Filter resources by community (e.g. Women, LGBTQ+, and Persons with Disabilities).
 
 **Coming Next!**
 - **Visual Insights**
@@ -31,7 +31,7 @@ Whether you're a traveler, activist, researcher, or simply curious about human r
 ## Tech Stack
 
 - **Frontend:** React + TailwindCSS
-- **Backend & Hosting:** Firebase + Vercel
+- **Backend & Hosting:** Vercel
 
 ## Inspiration
 
