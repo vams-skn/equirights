@@ -1,13 +1,11 @@
 # EquiRights
 
-**EquiRights** is a  global aggregator of legislations that empowers activists and individuals—especially women, LGBTQ+ folks, and differently-abled people—by providing access to country-specific information about their rights and resources. It empowers users to discover, compare, and understand laws relevant to marginalized communities around the world.
+**EquiRights** is a  global aggregator of legislations that empowers activists and individuals—especially women, LGBTQ+ folks, and differently-abled people—by providing access to country-specific information about their rights and resources.
 
 Built with 💙 React, EquiRights is designed for clarity, inclusivity, and accessibility, and allows users to:
 
 - Explore legislations/ laws by country
 - Filter by identity groups
-- Understand the global disparities
-- Navigate toward resources and support
 
 Whether you're a traveler, activist, researcher, or simply curious about human rights landscapes worldwide — **EquiRights** helps you stay informed, inspired, and equipped.
 
